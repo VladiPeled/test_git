@@ -1,1 +1,1 @@
-print('hello hotfix2:)')
+print('hello vladi_new_branch:)')
